@@ -1,74 +1,170 @@
+
 <div align="center">
 
-# Hi, I'm ljuarezar14 👋
+# Hi there, I'm Luis Juarez 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Systems+Engineering+student;Building+tech+for+people;Always+learning" alt="Animated introduction" />
+### Systems Engineering Student | Software Developer | Tech Enthusiast
 
-**Always learning, building tech solutions to empower people and humanity.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+solutions;Passionate+about+Software+Development;Exploring+AI%2C+IoT+and+Data+Analytics;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
 
-[Explore my repositories](https://github.com/ljuarezar14?tab=repositories)
+<br>
+
+**Building meaningful technology, one line of code at a time.**
+
+<a href="https://github.com/ljuarezar14?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Projects-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=ljuarezar14&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 About Me
 
-I'm a Systems Engineering student interested in software development and data analysis. I enjoy turning ideas into practical solutions that can help people.
+I'm a **Systems Engineering student from Peru 🇵🇪**, passionate about developing innovative technological solutions that solve real-world problems.
 
-- 🐍 Building with **Python, TypeScript, Java and React**
-- 🎨 Creating interfaces with **Tailwind CSS**
-- 📊 Exploring **data analysis and Power BI**
-- 🌱 Learning something new with every project
+My interests include **software engineering, artificial intelligence, automation, IoT, and data analytics**.
 
-## 🧰 Tech stack
+I enjoy combining technical knowledge, creativity, and teamwork to build solutions that make technology more useful and accessible.
 
-<div align="center">
+- 🎓 Studying **Systems Engineering**
+- 💻 Interested in **Full Stack & Desktop Development**
+- 🤖 Exploring **Artificial Intelligence and Automation**
+- 🌐 Building applications with modern technologies
+- 📊 Interested in **Data Analytics & Business Intelligence**
+- 🤝 Passionate about collaboration and continuous learning
+- 🚀 Always looking for new challenges
 
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&amp;logo=powerbi&amp;logoColor=white" alt="Power BI" />
+---
 
-</div>
-
-## 📈 GitHub activity
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ljuarezar14&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FFFFFF&amp;text_color=C9D1D9&amp;icon_color=58A6FF" alt="GitHub statistics" />
+### 💻 Programming Languages
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljuarezar14&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FFFFFF&amp;text_color=C9D1D9" alt="Most used languages" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cs&theme=dark" alt="Programming languages"/>
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend technologies"/>
+
+### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,express&theme=dark" alt="Backend technologies"/>
+
+### 🔧 Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,arduino&theme=dark" alt="Development tools"/>
+
+### 📊 Data & Analytics
+
+<img src="https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/>
+
+<img src="https://img.shields.io/badge/Data_Analysis-111827?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis"/>
 
 </div>
 
-## 🔎 Explore more
+---
 
-<details>
-<summary><strong>🎯 What interests me</strong></summary>
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ljuarezar14?tab=repositories">
+  <img src="https://img.shields.io/badge/Software_Development-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Software Development"/>
+</a>
+
+<a href="https://github.com/ljuarezar14?tab=repositories">
+  <img src="https://img.shields.io/badge/AI_%26_Automation-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="AI and Automation"/>
+</a>
+
+<a href="https://github.com/ljuarezar14?tab=repositories">
+  <img src="https://img.shields.io/badge/IoT_Projects-0D1117?style=for-the-badge&logo=arduino&logoColor=58A6FF" alt="IoT Projects"/>
+</a>
+
+</div>
 
 <br>
 
-- Technology that empowers people
-- Useful insights from data
-- Clean and accessible interfaces
-- Projects that help me keep learning
+**What I'm working on:**
 
-</details>
+- **Software Engineering:** Developing applications focused on usability, maintainability, and efficiency.
+- **AI & Automation:** Exploring intelligent solutions to optimize repetitive processes.
+- **IoT & Computer Vision:** Integrating hardware, sensors, and intelligent image processing.
+- **Data Analytics:** Transforming information into useful insights for decision-making.
 
-<details>
-<summary><strong>🚀 See what I'm building</strong></summary>
+> Explore my repositories to discover my projects and experiments.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ljuarezar14&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljuarezar14&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
 
 <br>
 
-Browse my [public repositories](https://github.com/ljuarezar14?tab=repositories). I'll add featured projects here as I build them.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ljuarezar14&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
-</details>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ljuarezar14&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🌱 Beyond the Code
+
+I believe great technology is not just about writing code.
+
+It's about **understanding people, solving meaningful problems, and creating positive impact**.
+
+I value:
+
+- 💡 Creativity and problem-solving
+- 🤝 Teamwork and communication
+- 📚 Continuous learning
+- 🎯 Building solutions with purpose
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/ljuarezar14">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br><br>
+
+**Open to collaboration, new ideas, and exciting projects.**
+
+*Let's build something meaningful together.*
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>Learning · Building · Improving</sub>
+
+<sub>Designed with curiosity, built with passion.</sub>
+
+<br>
+
+**Learning · Building · Innovating 🚀**
+
 </div>
