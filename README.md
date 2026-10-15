@@ -2,15 +2,12 @@
 <div align="center">
 
 # Hi, I'm Luis Juarez 👋
-<div align="center">
-  <h3>🎬 Project Demo</h3>
 
-  <img
-    src="assets/ljuarezar14.gif"
-    alt="Project demonstration"
-    width="700"
-  />
-</div>
+<img
+  src="assets/ljuarezar14.gif"
+  alt="Luis Juarez - Developer introduction"
+  width="700"
+/>
 
 ### Systems Engineering Student | Software Development Enthusiast
 
@@ -19,6 +16,8 @@
 <br>
 
 **Passionate about technology, people, and creating solutions that make a difference.**
+
+<br>
 
 <a href="https://github.com/ljuarezar14?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_My_Repositories-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
