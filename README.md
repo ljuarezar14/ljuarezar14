@@ -1,21 +1,23 @@
 
 <div align="center">
 
-# Hi there, I'm Luis Juarez 👋
+# Hi, I'm Luis Juarez 👋
 
-### Systems Engineering Student | Software Developer | Tech Enthusiast
+### Systems Engineering Student | Software Development Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+solutions;Passionate+about+Software+Development;Exploring+AI%2C+IoT+and+Data+Analytics;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+technology+with+purpose;Turning+ideas+into+practical+solutions;Exploring+Software%2C+AI+and+IoT;Always+learning%2C+always+improving" alt="Animated introduction" />
 
 <br>
 
-**Building meaningful technology, one line of code at a time.**
+**Passionate about technology, people, and creating solutions that make a difference.**
 
 <a href="https://github.com/ljuarezar14?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Projects-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=ljuarezar14&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ljuarezar14&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
 
@@ -23,19 +25,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Systems Engineering student from Peru 🇵🇪**, passionate about developing innovative technological solutions that solve real-world problems.
+I'm **Luis**, a Systems Engineering student from Peru 🇵🇪, passionate about building software that solves real-world problems.
 
-My interests include **software engineering, artificial intelligence, automation, IoT, and data analytics**.
+I enjoy exploring new technologies, understanding how systems work, and transforming ideas into functional solutions.
 
-I enjoy combining technical knowledge, creativity, and teamwork to build solutions that make technology more useful and accessible.
+Beyond programming, I value **communication, teamwork, creativity, and the human side of technology**.
 
 - 🎓 Studying **Systems Engineering**
-- 💻 Interested in **Full Stack & Desktop Development**
-- 🤖 Exploring **Artificial Intelligence and Automation**
-- 🌐 Building applications with modern technologies
-- 📊 Interested in **Data Analytics & Business Intelligence**
-- 🤝 Passionate about collaboration and continuous learning
-- 🚀 Always looking for new challenges
+- 💻 Interested in **Software Engineering & Full Stack Development**
+- ⚙️ Exploring **Automation and Software Architecture**
+- 🤖 Learning about **Artificial Intelligence and IoT**
+- 📊 Interested in **Data Analytics and Business Intelligence**
+- 🤝 Enjoy collaborating and sharing knowledge
+- 🌱 Continuously improving my technical and interpersonal skills
 
 ---
 
@@ -43,74 +45,63 @@ I enjoy combining technical knowledge, creativity, and teamwork to build solutio
 
 <div align="center">
 
-### 💻 Programming Languages
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,cs&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cs&theme=dark" alt="Programming languages" />
 
-### 🌐 Frontend Development
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend technologies" />
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,express&theme=dark" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" alt="Backend and databases" />
 
-### 🔧 Tools & Development
+### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,arduino&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,arduino&theme=dark" alt="Development tools" />
 
-### 📊 Data & Analytics
+### Data Analytics
 
-<img src="https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/>
-
-<img src="https://img.shields.io/badge/Data_Analysis-111827?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis"/>
+<img src="https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <div align="center">
 
-<a href="https://github.com/ljuarezar14?tab=repositories">
-  <img src="https://img.shields.io/badge/Software_Development-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Software Development"/>
-</a>
-
-<a href="https://github.com/ljuarezar14?tab=repositories">
-  <img src="https://img.shields.io/badge/AI_%26_Automation-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="AI and Automation"/>
-</a>
-
-<a href="https://github.com/ljuarezar14?tab=repositories">
-  <img src="https://img.shields.io/badge/IoT_Projects-0D1117?style=for-the-badge&logo=arduino&logoColor=58A6FF" alt="IoT Projects"/>
+<a href="https://github.com/ljuarezar14/Antojitos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ljuarezar14&repo=Antojitos&theme=github_dark&hide_border=true" alt="Antojitos repository" />
 </a>
 
 </div>
 
-<br>
+### 🍔 Antojitos
 
-**What I'm working on:**
+A JavaScript-based project focused on a food and beverage business.
 
-- **Software Engineering:** Developing applications focused on usability, maintainability, and efficiency.
-- **AI & Automation:** Exploring intelligent solutions to optimize repetitive processes.
-- **IoT & Computer Vision:** Integrating hardware, sensors, and intelligent image processing.
-- **Data Analytics:** Transforming information into useful insights for decision-making.
+**Repository:** [Explore Antojitos](https://github.com/ljuarezar14/Antojitos)
 
-> Explore my repositories to discover my projects and experiments.
+I'm continuously working on projects that help me strengthen my skills in software development, problem-solving, and system design.
+
+More projects coming as I continue learning and building.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ljuarezar14&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ljuarezar14&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljuarezar14&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljuarezar14&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ljuarezar14&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ljuarezar14&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
@@ -120,40 +111,66 @@ I enjoy combining technical knowledge, creativity, and teamwork to build solutio
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ljuarezar14&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ljuarezar14&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
-## 🌱 Beyond the Code
+## 🌱 Currently Exploring
 
-I believe great technology is not just about writing code.
+<table>
+<tr>
+<td width="50%">
 
-It's about **understanding people, solving meaningful problems, and creating positive impact**.
+**💻 Software Development**
 
-I value:
+- Clean code and maintainability
+- Software architecture
+- Desktop and web applications
+- Development best practices
 
-- 💡 Creativity and problem-solving
-- 🤝 Teamwork and communication
-- 📚 Continuous learning
-- 🎯 Building solutions with purpose
+</td>
+<td width="50%">
+
+**🤖 Emerging Technologies**
+
+- Artificial intelligence
+- Process automation
+- Internet of Things
+- Data-driven solutions
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Let's Connect
+## 💡 A Little More About Me
+
+I believe that being a good developer goes beyond writing code.
+
+It's about **understanding problems, working with people, and creating technology that delivers real value**.
+
+I enjoy meeting new people, exchanging ideas, collaborating on projects, and taking on challenges that push me to grow.
+
+> "Technology becomes meaningful when it improves people's lives."
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
+I'm always open to learning, collaborating, and exploring new opportunities.
+
 <a href="https://github.com/ljuarezar14">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br><br>
 
-**Open to collaboration, new ideas, and exciting projects.**
-
-*Let's build something meaningful together.*
+**Let's turn great ideas into meaningful solutions. 🚀**
 
 </div>
 
@@ -161,10 +178,10 @@ I value:
 
 <div align="center">
 
-<sub>Designed with curiosity, built with passion.</sub>
+<sub>Designed with curiosity. Built with purpose.</sub>
 
-<br>
+<br><br>
 
-**Learning · Building · Innovating 🚀**
+**Learning · Building · Improving**
 
 </div>
