@@ -3,11 +3,13 @@
 
 # Hi, I'm Luis Juarez 👋
 
-<img
-  src="assets/ljuarezar14.gif"
-  alt="Luis Juarez - Developer introduction"
-  width="700"
-/>
+<div align="center">
+  <img
+    src="./assets/ljuarezar14.gif"
+    alt="Luis Juarez - Animated introduction"
+    width="700"
+  />
+</div>
 
 ### Systems Engineering Student | Software Development Enthusiast
 
