@@ -2,6 +2,15 @@
 <div align="center">
 
 # Hi, I'm Luis Juarez 👋
+<div align="center">
+  <h3>🎬 Project Demo</h3>
+
+  <img
+    src="assets/ljuarezar14.gif"
+    alt="Project demonstration"
+    width="700"
+  />
+</div>
 
 ### Systems Engineering Student | Software Development Enthusiast
 
